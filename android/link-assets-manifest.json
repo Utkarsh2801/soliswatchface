@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AdventPro-Regular.ttf",
+      "sha1": "1dd7905202ee8521f8e1d0124f6f3686a9ab051b"
+    },
+    {
+      "path": "assets/fonts/AdventPro-SemiBold.ttf",
+      "sha1": "2405df235a9a4a7f4f1bb0c2c9776df23f38f735"
+    },
+    {
+      "path": "assets/fonts/AdventPro_Expanded-SemiBold.ttf",
+      "sha1": "87186c4d68b243ca4e2ff06200f5c02eed1e469d"
+    },
+    {
+      "path": "assets/fonts/AdventPro_ExtraExpanded-Bold.ttf",
+      "sha1": "43a15db3a9af82c6b3b4ded3010bc57e5a86fee3"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "b8bd872f3e1c259882864eac9fb22c6f81dee969"
+    },
+    {
+      "path": "assets/fonts/README.txt",
+      "sha1": "4296bf0e730a947b40a0058118cbdecd059bb8ca"
+    }
+  ]
+}
